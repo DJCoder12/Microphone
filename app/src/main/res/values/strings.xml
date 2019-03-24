@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Microphone</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="view">View</string>
+    <string name="save">Save</string>
+    <string name="play">Play</string>
+</resources>
